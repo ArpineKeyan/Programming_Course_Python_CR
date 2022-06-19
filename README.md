@@ -1,2 +1,2 @@
-# Programming_Course_Python_CodeRepublic
+# Programming_Course_Python_CR
 This is repo for Homeworks
