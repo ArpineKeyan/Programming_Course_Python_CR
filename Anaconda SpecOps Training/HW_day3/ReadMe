@@ -1,0 +1,6 @@
+Day 3 - Aug 7
+Կարդալ Mark Lutz, Learning Python - chapter 4
+Կարդալ Mark Lutz, Learning Python - chapter 6
+Գրել ծրագիր, որը հաշվում է 1-ից 100 թվերի գումարի քառակուսին (1+...+100)^2, հաշվում է 1-ից 100 թվերի քառակուսիների գումարը՝ (1^2 + 2^2 + … + 100^2)։ Ծրագիրը տպում է ստացված թվերի տարբերությունը։
+Տրված է անուններ պարունակող ֆայլը (https://projecteuler.net/project/resources/p022_names.txt), արտագրել արժեքները մեկ այլ ֆայլում, որտեղ մեծատառով կլինեն միայն անունների առաջին տառերը։
+https://leetcode.com/problems/palindrome-number/
