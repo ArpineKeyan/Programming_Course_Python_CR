@@ -1,0 +1,5 @@
+Day 2 - Aug 6
+Կարդալ Mark Lutz, Learning Python - chapters 2-3
+Իրականացնել strmove() ֆունկցիան, որը տրված տողը ցիկլիկ տեղաշարժում է դեպի աջ տրված քանակով։ Օրինակ, strmove(“hello”, 2); կտեղաշարժի “hello”-ն 2 դիրքով դեպի աջ և կստանա “lohel”։
+https://projecteuler.net/problem=1
+https://projecteuler.net/problem=2
