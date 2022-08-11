@@ -1,0 +1,6 @@
+We describe PaLM in detail. At its core is an attention component, gathering the representations
+of preceding spans at each time step. Similar to
+self-attention, PaLM can be implemented on top
+of RNN encoders (Parikh et al., 2016 ), or as it
+is (Vaswani et al., 2017 ). Here we encode the tokens using a left-to-right RNN, denoted with vectors ht
+.
