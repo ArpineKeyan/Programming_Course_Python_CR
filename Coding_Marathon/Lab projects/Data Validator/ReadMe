@@ -1,0 +1,17 @@
+Day 2
+●Type -Console application, desktop application
+
+Data Validator
+Write a program that performs checking on the entered data, specifically it
+should check whether the following types of data are entered correctly:
+1.Email
+2.Website URL
+3.Date
+4.Number
+5.Credit Card Number
+6.Mobile Phone Number
+The program asks the user to choose one of the above-mentioned types of data
+and then enters the data he/she wants to check. For example the user chooses
+anEmailoption and then enterswrong@email .Theprogram should check the
+format of the email and should tell the user that it is not a valid email. This
+applies to all the types of data.
