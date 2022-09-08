@@ -1,0 +1,3 @@
+Our game is the following: we are rolling 2 fair dice. If 2 numbers shown on dice are
+equal, we get 10 points. If these numbers differ by 1, then we get 3 points. Otherwise,
+we loose 3 points. What is the expected value of the points one can get in a game?

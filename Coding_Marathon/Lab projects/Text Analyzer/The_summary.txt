@@ -1,0 +1,5 @@
+Sentences: 5.
+Words: 50.
+Letters: 188.
+Letter frequency: e.
+Word frequency: 50.
