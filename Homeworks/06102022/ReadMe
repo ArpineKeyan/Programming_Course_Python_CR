@@ -1,19 +1,35 @@
 Տնային հանձնարարություն, կարդում եք՝
 Learning Python ( Marc Lutz ), chapters, 10, 11, 12
 Effective Python (Brat Slatkin) Items 5 - 10 ներառյալ
+
 Իրականացնել ՝
-Write a program that asks the user for an hour between 1 and 12, asks them to enter am or pm, and asks them how many hours into the future they want to go. Print out what the hour will be that many hours into the future, printing am or pm as appropriate. An example is shown below.
+
+Write a program that asks the user for an hour between 1 and 12, asks them to enter am or pm, and asks them how many hours into the future they want to go. 
+Print out what the hour will be that many hours into the future, printing am or pm as appropriate. An example is shown below.
 Enter hour: 8
 am (1) or pm (2)? 1
 How many hours ahead? 5
 New hour: 1 pm
-Write a simple quiz game that has a list of ten questions and a list of answers to those questions. The game should give the player four randomly selected questions to answer. It should ask the questions one-by-one, and tell the player whether they got the question right or wrong. At the end it should print out how many out of four they got right.
-Suppose you have a 5 × 5 list that consists of zeros and M’s. Write a program that creates a new 5 × 5 list that has M’s in the same place, but the zeroes are replaced by counts of how many M’s are in adjacent cells (adjacent either horizontally, vertically, or diagonally). An example is shown below. [Hint: short-circuiting may be helpful for avoiding index-out-of-range errors.]
+
+
+Write a simple quiz game that has a list of ten questions and a list of answers to those questions. 
+The game should give the player four randomly selected questions to answer. It should ask the questions one-by-one, 
+and tell the player whether they got the question right or wrong. At the end it should print out how many out of four they got right.
+
+
+Suppose you have a 5 × 5 list that consists of zeros and M’s. Write a program that creates a new 5 × 5 list that has M’s in the same place, 
+but the zeroes are replaced by counts of how many M’s are in adjacent cells (adjacent either horizontally, vertically, or diagonally). 
+An example is shown below. [Hint: short-circuiting may be helpful for avoiding index-out-of-range errors.]
 0 M 0 M 0     1 M 3 M 1
 0 0 M 0 0     1 2 M 2 1
 0 0 0 0 0     2 3 2 1 0
 M M 0 0 0     M M 2 1 1
 0 0 0 M 0     2 2 2 M 1
+Comment/////I got 6 wrong values:(
+
+
+
+
 Write a program that rotates a matrix by 180 degrees.
 Input:
 1   2   3   4
